@@ -119,8 +119,8 @@
 			<Linker Name="ExeDescription"></Linker>
 		</Linker>
 		<Directories>
-			<Directories Name="OutputDir">D:\Johnathan\Avaliacao\AVALIACAO_01\BIN</Directories>
-			<Directories Name="UnitOutputDir">D:\Johnathan\Avaliacao\AVALIACAO_01\DCUS</Directories>
+			<Directories Name="OutputDir">D:\Johnathan\AvaliacaoArquitetura\AVALIACAO_01\BIN</Directories>
+			<Directories Name="UnitOutputDir">D:\Johnathan\AvaliacaoArquitetura\AVALIACAO_01\DCUS</Directories>
 			<Directories Name="PackageDLLOutputDir"></Directories>
 			<Directories Name="PackageDCPOutputDir"></Directories>
 			<Directories Name="SearchPath"></Directories>
@@ -170,8 +170,7 @@
 			<VersionInfoKeys Name="ProductName"></VersionInfoKeys>
 			<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
 			<VersionInfoKeys Name="Comments"></VersionInfoKeys>
-		</VersionInfoKeys>  
-    <Excluded_Packages>
+		</VersionInfoKeys>  <Excluded_Packages>
       <Excluded_Packages Name="C:\Siagri\ACBr\Lib\Delphi\LibD10\ACBr_MDFeDamdfeRL.bpl">ACBr - DAMDFe em FortesReport - (http://www.projetoacbr.com.br/)</Excluded_Packages>
       <Excluded_Packages Name="C:\Program Files (x86)\Borland\BDS\4.0\Bin\dclIndyCore100.bpl">Indy 10 Core Design Time</Excluded_Packages>
       <Excluded_Packages Name="c:\program files (x86)\borland\bds\4.0\Bin\dclIndyProtocols100.bpl">Indy 10 Protocols Design Time</Excluded_Packages>
