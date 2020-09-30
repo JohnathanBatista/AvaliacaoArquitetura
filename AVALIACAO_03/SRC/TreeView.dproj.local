@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/14 15:52:49.000.342,=C:\Users\johna\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 15:53:38.000.908,C:\Users\johna\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\AvaliacaoArquitetura\AVALIACAO_03\uPrincipal.dfm</Transaction>
+    <Transaction>2020/09/14 15:53:38.000.908,C:\Users\johna\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\AvaliacaoArquitetura\AVALIACAO_03\uPrincipal.pas</Transaction>
+    <Transaction>2020/09/14 15:53:42.000.720,C:\Users\johna\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\AvaliacaoArquitetura\AVALIACAO_03\TreeView.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
